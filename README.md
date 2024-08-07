@@ -3,7 +3,6 @@
 Fase 1: C - Fundamentos de Baixo Nível
 
 Básico de C e ambiente de desenvolvimento
-
 Projeto: Calculadora de linha de comando
 
 Ponteiros e gerenciamento de memória
