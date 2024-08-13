@@ -12,7 +12,6 @@ Projeto: Implementação de lista ligada
 Estruturas de dados e algoritmos básicos
 
 Projeto: Árvore binária de busca
-
 Manipulação de bits e operações de baixo nível
 
 Projeto: Conversor de bases numéricas (binário, octal, hexadecimal)
