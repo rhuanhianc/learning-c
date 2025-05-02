@@ -18,8 +18,6 @@ Projeto: Conversor de bases numéricas (binário, octal, hexadecimal)
 
 Interação com hardware via C
 
-Projeto: Driver simples para LED (usando uma placa como Raspberry Pi)
-
 Programação de sockets e redes
 
 Projeto: Chat de servidor/cliente TCP
